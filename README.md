@@ -1,3 +1,6 @@
+
+# Image segmentation without user input**
+
 ## Overview
 
 In this project, I designed, implemented, and evaluated a **two-stage computer vision pipeline** for **image segmentation without user input**:
@@ -43,8 +46,8 @@ The Colab version:
 
 | Stage                                  | Duration (Colab T4) |
 | -------------------------------------- | ------------------- |
-| Dataset download & setup               | ~20 seconds         |
-| Model loading                          | ~30 seconds         |
+| Dataset download & setup               | ~10 seconds         |
+| Model loading                          | ~10 seconds         |
 | Grad-CAM computation                   | ~10 seconds         |
 | SAM pipeline (foreground only)         | ~3–5 minutes        |
 | SAM pipeline (foreground + background) | ~3-5 minutes        |
@@ -60,4 +63,3 @@ The Colab version:
 
 ---
 
-# **Homework 2: Image segmentation without user input**
