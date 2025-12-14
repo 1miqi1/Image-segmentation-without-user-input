@@ -1,12 +1,12 @@
 
-# Image segmentation without user input**
+# Image Segmentation Without User Input
 
 ## Overview
 
 In this project, I designed, implemented, and evaluated a **two-stage computer vision pipeline** for **image segmentation without user input**:
 
-1. **Grad-CAM (Gradient-weighted Class Activation Mapping)** – generate saliency maps highlighting image regions most relevant to a classifier’s prediction.
-2. **Automatic segmentation with SAM (Segment Anything Model)** – segment objects using only the image input, by automatically generating foreground/background point prompts.
+1. **Grad-CAM (Gradient-weighted Class Activation Mapping)** – generates saliency maps highlighting image regions most relevant to a classifier’s prediction.
+2. **Automatic segmentation using SAM (Segment Anything Model)** – segments objects using only the image input by automatically generating foreground and background point prompts.
 
 This project focuses on **model interpretability** and **prompt-free image segmentation**, combining explanation methods with foundation models in a multi-stage pipeline.
 
