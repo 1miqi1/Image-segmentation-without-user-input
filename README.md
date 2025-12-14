@@ -11,7 +11,8 @@ This project focuses on **model interpretability** and **prompt-free image segme
 
 ## **Colab Notebook**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](LINK_TO_COLAB_NOTEBOOK)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1miqi1/Image-segmentation-without-user-input/blob/main/hw_2_gradcam_and_sam_student.ipynb)
+
 
 *(I recommend using Colab)*
 
