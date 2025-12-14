@@ -45,13 +45,12 @@ The Colab version:
 | -------------------------------------- | ------------------- |
 | Dataset download & setup               | ~20 seconds         |
 | Model loading                          | ~30 seconds         |
-| Grad-CAM computation                   | ~2–3 minutes        |
+| Grad-CAM computation                   | ~10 seconds         |
 | SAM pipeline (foreground only)         | ~3–5 minutes        |
-| SAM pipeline (foreground + background) | ~4–6 minutes        |
-| Plotting & metrics                     | ~1 minute           |
+| SAM pipeline (foreground + background) | ~3-5 minutes        |
 
 **Total runtime:**
-**~12–18 minutes end-to-end**
+**~6–10 minutes end-to-end**
 
 ### **Memory footprint**
 
